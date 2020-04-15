@@ -1,0 +1,54 @@
+{
+        "categories": [
+            { "name": "Популярное",
+            "categoryId": 1,
+            "dishes": [
+            {   "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650},
+              {  "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650},
+              {  "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650},
+              {  "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650}]
+            },
+            { "name": "Морепродукты",
+            "categoryId": 2,
+            "dishes": [
+            {   "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650},
+              {  "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650},
+              {  "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650},
+              {  "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "name": "Рыбное филе",
+                "dishId": 1,
+                "price": 650}]
+            }],
+              
+        "restaurant":  {
+                 "name": "Safar cafe",
+                 "id": 1,
+                 "workTime": "9:00 - 18:00",
+                 "minOrder": 600,
+                 "freeOrder": 1000,
+                 "address": "ул. Ленина 18А"б
+                 "delivery": 100,
+                 "info":"Дагестанская кухня. Японская кухня"
+                }
+    }
