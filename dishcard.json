@@ -1,29 +1,29 @@
 {
- "productId" : 1
- "productName" : "Классический чизкейк"
- "productImage" : "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg"
- "productDescription": "Описание"
+ "productId" : 1,
+ "productName" : "Классический чизкейк",
+ "productImage" : "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+ "productDescription": "Описание",
  "additionalAdditive" [
   {
-   "name" : "клубника"
-   "price" : 12
+   "name" : "клубника",
+   "price" : 12,
    "active" : true
   },
   {
-   "name": "малина"
-   "price": 20
+   "name": "малина",
+   "price": 20,
    "active": false
   }
  ]
  "additionally": [
   {
-   "name": "кофе"
-   "price": 100
+   "name": "кофе",
+   "price": 100,
    "active": true
   },
   {
-   "name": "чай"
-   "price": 50
+   "name": "чай",
+   "price": 50,
    "active": false
   }
  ]
